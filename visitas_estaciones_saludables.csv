@@ -1,0 +1,265 @@
+anio,sexo,cantidad_personas,grupo_edad,lugar_residencia
+2013,m,1163,0 - 9,Ciudad de Buenos Aires
+2013,m,2657,10 - 19,Ciudad de Buenos Aires
+2013,m,6999,20 - 29,Ciudad de Buenos Aires
+2013,m,7437,30 - 39,Ciudad de Buenos Aires
+2013,m,8783,40 - 49,Ciudad de Buenos Aires
+2013,m,7800,50 - 59,Ciudad de Buenos Aires
+2013,m,7721,60 - 69,Ciudad de Buenos Aires
+2013,m,5802,70 - 79,Ciudad de Buenos Aires
+2013,m,2777,80 - 89,Ciudad de Buenos Aires
+2013,m,288,90 y más,Ciudad de Buenos Aires
+2013,m,274,Ignorado,Ciudad de Buenos Aires
+2013,m,495,0 - 9,Otros fuera de CABA
+2013,m,1491,10 - 19,Otros fuera de CABA
+2013,m,4022,20 - 29,Otros fuera de CABA
+2013,m,4041,30 - 39,Otros fuera de CABA
+2013,m,4675,40 - 49,Otros fuera de CABA
+2013,m,4110,50 - 59,Otros fuera de CABA
+2013,m,2763,60 - 69,Otros fuera de CABA
+2013,m,1196,70 - 79,Otros fuera de CABA
+2013,m,299,80 - 89,Otros fuera de CABA
+2013,m,34,90 y más,Otros fuera de CABA
+2013,m,246,Ignorado,Otros fuera de CABA
+2013,m,375,0 - 9,Ignorado
+2013,m,714,10 - 19,Ignorado
+2013,m,1769,20 - 29,Ignorado
+2013,m,1839,30 - 39,Ignorado
+2013,m,3758,40 - 49,Ignorado
+2013,m,2231,50 - 59,Ignorado
+2013,m,2007,60 - 69,Ignorado
+2013,m,1366,70 - 79,Ignorado
+2013,m,587,80 - 89,Ignorado
+2013,m,54,90 y más,Ignorado
+2013,m,313,Ignorado,Ignorado
+2013,v,918,0 - 9,Ciudad de Buenos Aires
+2013,v,1606,10 - 19,Ciudad de Buenos Aires
+2013,v,4803,20 - 29,Ciudad de Buenos Aires
+2013,v,5880,30 - 39,Ciudad de Buenos Aires
+2013,v,7527,40 - 49,Ciudad de Buenos Aires
+2013,v,6830,50 - 59,Ciudad de Buenos Aires
+2013,v,7084,60 - 69,Ciudad de Buenos Aires
+2013,v,4919,70 - 79,Ciudad de Buenos Aires
+2013,v,2224,80 - 89,Ciudad de Buenos Aires
+2013,v,242,90 y más,Ciudad de Buenos Aires
+2013,v,222,Ignorado,Ciudad de Buenos Aires
+2013,v,386,0 - 9,Otros fuera de CABA
+2013,v,797,10 - 19,Otros fuera de CABA
+2013,v,3012,20 - 29,Otros fuera de CABA
+2013,v,3401,30 - 39,Otros fuera de CABA
+2013,v,4129,40 - 49,Otros fuera de CABA
+2013,v,3723,50 - 59,Otros fuera de CABA
+2013,v,2867,60 - 69,Otros fuera de CABA
+2013,v,1031,70 - 79,Otros fuera de CABA
+2013,v,302,80 - 89,Otros fuera de CABA
+2013,v,28,90 y más,Otros fuera de CABA
+2013,v,176,Ignorado,Otros fuera de CABA
+2013,v,302,0 - 9,Ignorado
+2013,v,516,10 - 19,Ignorado
+2013,v,1234,20 - 29,Ignorado
+2013,v,1539,30 - 39,Ignorado
+2013,v,3488,40 - 49,Ignorado
+2013,v,1992,50 - 59,Ignorado
+2013,v,2187,60 - 69,Ignorado
+2013,v,1376,70 - 79,Ignorado
+2013,v,578,80 - 89,Ignorado
+2013,v,67,90 y más,Ignorado
+2013,v,340,Ignorado,Ignorado
+2014,m,1414,0 - 9,Ciudad de Buenos Aires
+2014,m,3075,10 - 19,Ciudad de Buenos Aires
+2014,m,9421,20 - 29,Ciudad de Buenos Aires
+2014,m,9975,30 - 39,Ciudad de Buenos Aires
+2014,m,10014,40 - 49,Ciudad de Buenos Aires
+2014,m,10273,50 - 59,Ciudad de Buenos Aires
+2014,m,9647,60 - 69,Ciudad de Buenos Aires
+2014,m,6660,70 - 79,Ciudad de Buenos Aires
+2014,m,3111,80 - 89,Ciudad de Buenos Aires
+2014,m,360,90 y más,Ciudad de Buenos Aires
+2014,m,38,Ignorado,Ciudad de Buenos Aires
+2014,m,637,0 - 9,Otros fuera de CABA
+2014,m,2825,10 - 19,Otros fuera de CABA
+2014,m,7879,20 - 29,Otros fuera de CABA
+2014,m,8093,30 - 39,Otros fuera de CABA
+2014,m,8696,40 - 49,Otros fuera de CABA
+2014,m,8401,50 - 59,Otros fuera de CABA
+2014,m,6074,60 - 69,Otros fuera de CABA
+2014,m,2639,70 - 79,Otros fuera de CABA
+2014,m,746,80 - 89,Otros fuera de CABA
+2014,m,76,90 y más,Otros fuera de CABA
+2014,m,21,Ignorado,Otros fuera de CABA
+2014,m,62,0 - 9,Ignorado
+2014,m,394,10 - 19,Ignorado
+2014,m,1358,20 - 29,Ignorado
+2014,m,1590,30 - 39,Ignorado
+2014,m,2285,40 - 49,Ignorado
+2014,m,2265,50 - 59,Ignorado
+2014,m,2441,60 - 69,Ignorado
+2014,m,1726,70 - 79,Ignorado
+2014,m,750,80 - 89,Ignorado
+2014,m,143,90 y más,Ignorado
+2014,m,19,Ignorado,Ignorado
+2014,v,1165,0 - 9,Ciudad de Buenos Aires
+2014,v,1812,10 - 19,Ciudad de Buenos Aires
+2014,v,6049,20 - 29,Ciudad de Buenos Aires
+2014,v,7325,30 - 39,Ciudad de Buenos Aires
+2014,v,7974,40 - 49,Ciudad de Buenos Aires
+2014,v,8267,50 - 59,Ciudad de Buenos Aires
+2014,v,7787,60 - 69,Ciudad de Buenos Aires
+2014,v,5074,70 - 79,Ciudad de Buenos Aires
+2014,v,2264,80 - 89,Ciudad de Buenos Aires
+2014,v,214,90 y más,Ciudad de Buenos Aires
+2014,v,35,Ignorado,Ciudad de Buenos Aires
+2014,v,479,0 - 9,Otros fuera de CABA
+2014,v,1459,10 - 19,Otros fuera de CABA
+2014,v,5095,20 - 29,Otros fuera de CABA
+2014,v,5879,30 - 39,Otros fuera de CABA
+2014,v,6729,40 - 49,Otros fuera de CABA
+2014,v,6525,50 - 59,Otros fuera de CABA
+2014,v,5198,60 - 69,Otros fuera de CABA
+2014,v,2291,70 - 79,Otros fuera de CABA
+2014,v,627,80 - 89,Otros fuera de CABA
+2014,v,40,90 y más,Otros fuera de CABA
+2014,v,23,Ignorado,Otros fuera de CABA
+2014,v,55,0 - 9,Ignorado
+2014,v,272,10 - 19,Ignorado
+2014,v,960,20 - 29,Ignorado
+2014,v,1278,30 - 39,Ignorado
+2014,v,1933,40 - 49,Ignorado
+2014,v,2098,50 - 59,Ignorado
+2014,v,2225,60 - 69,Ignorado
+2014,v,1532,70 - 79,Ignorado
+2014,v,721,80 - 89,Ignorado
+2014,v,128,90 y más,Ignorado
+2014,v,17,Ignorado,Ignorado
+2015,m,677,0 - 9,Ciudad de Buenos Aires
+2015,m,3282,10 - 19,Ciudad de Buenos Aires
+2015,m,9856,20 - 29,Ciudad de Buenos Aires
+2015,m,9481,30 - 39,Ciudad de Buenos Aires
+2015,m,9760,40 - 49,Ciudad de Buenos Aires
+2015,m,11061,50 - 59,Ciudad de Buenos Aires
+2015,m,10775,60 - 69,Ciudad de Buenos Aires
+2015,m,7743,70 - 79,Ciudad de Buenos Aires
+2015,m,3300,80 - 89,Ciudad de Buenos Aires
+2015,m,366,90 y más,Ciudad de Buenos Aires
+2015,m,5,Ignorado,Ciudad de Buenos Aires
+2015,m,396,0 - 9,Otros fuera de CABA
+2015,m,3320,10 - 19,Otros fuera de CABA
+2015,m,9231,20 - 29,Otros fuera de CABA
+2015,m,8780,30 - 39,Otros fuera de CABA
+2015,m,9679,40 - 49,Otros fuera de CABA
+2015,m,9589,50 - 59,Otros fuera de CABA
+2015,m,6800,60 - 69,Otros fuera de CABA
+2015,m,2937,70 - 79,Otros fuera de CABA
+2015,m,753,80 - 89,Otros fuera de CABA
+2015,m,65,90 y más,Otros fuera de CABA
+2015,m,1,Ignorado,Otros fuera de CABA
+2015,m,8,0 - 9,Ignorado
+2015,m,169,10 - 19,Ignorado
+2015,m,520,20 - 29,Ignorado
+2015,m,606,30 - 39,Ignorado
+2015,m,799,40 - 49,Ignorado
+2015,m,799,50 - 59,Ignorado
+2015,m,904,60 - 69,Ignorado
+2015,m,759,70 - 79,Ignorado
+2015,m,297,80 - 89,Ignorado
+2015,m,100,90 y más,Ignorado
+2015,m,2,Ignorado,Ignorado
+2015,v,644,0 - 9,Ciudad de Buenos Aires
+2015,v,1976,10 - 19,Ciudad de Buenos Aires
+2015,v,6382,20 - 29,Ciudad de Buenos Aires
+2015,v,7192,30 - 39,Ciudad de Buenos Aires
+2015,v,8062,40 - 49,Ciudad de Buenos Aires
+2015,v,9001,50 - 59,Ciudad de Buenos Aires
+2015,v,8630,60 - 69,Ciudad de Buenos Aires
+2015,v,6045,70 - 79,Ciudad de Buenos Aires
+2015,v,2422,80 - 89,Ciudad de Buenos Aires
+2015,v,235,90 y más,Ciudad de Buenos Aires
+2015,v,2,Ignorado,Ciudad de Buenos Aires
+2015,v,321,0 - 9,Otros fuera de CABA
+2015,v,1659,10 - 19,Otros fuera de CABA
+2015,v,6020,20 - 29,Otros fuera de CABA
+2015,v,6476,30 - 39,Otros fuera de CABA
+2015,v,7342,40 - 49,Otros fuera de CABA
+2015,v,7280,50 - 59,Otros fuera de CABA
+2015,v,5991,60 - 69,Otros fuera de CABA
+2015,v,2519,70 - 79,Otros fuera de CABA
+2015,v,653,80 - 89,Otros fuera de CABA
+2015,v,55,90 y más,Otros fuera de CABA
+2015,v,1,Ignorado,Otros fuera de CABA
+2015,v,11,0 - 9,Ignorado
+2015,v,79,10 - 19,Ignorado
+2015,v,333,20 - 29,Ignorado
+2015,v,431,30 - 39,Ignorado
+2015,v,545,40 - 49,Ignorado
+2015,v,739,50 - 59,Ignorado
+2015,v,815,60 - 69,Ignorado
+2015,v,644,70 - 79,Ignorado
+2015,v,282,80 - 89,Ignorado
+2015,v,53,90 y más,Ignorado
+2015,v,2,Ignorado,Ignorado
+2016,m,884,0 - 9,Ciudad de Buenos Aires
+2016,m,3691,10 - 19,Ciudad de Buenos Aires
+2016,m,9539,20 - 29,Ciudad de Buenos Aires
+2016,m,9336,30 - 39,Ciudad de Buenos Aires
+2016,m,10076,40 - 49,Ciudad de Buenos Aires
+2016,m,11830,50 - 59,Ciudad de Buenos Aires
+2016,m,12809,60 - 69,Ciudad de Buenos Aires
+2016,m,9234,70 - 79,Ciudad de Buenos Aires
+2016,m,3843,80 - 89,Ciudad de Buenos Aires
+2016,m,437,90 y más,Ciudad de Buenos Aires
+2016,m,1,Ignorado,Ciudad de Buenos Aires
+2016,m,465,0 - 9,Otros fuera de CABA
+2016,m,3039,10 - 19,Otros fuera de CABA
+2016,m,8002,20 - 29,Otros fuera de CABA
+2016,m,7093,30 - 39,Otros fuera de CABA
+2016,m,8452,40 - 49,Otros fuera de CABA
+2016,m,8914,50 - 59,Otros fuera de CABA
+2016,m,6349,60 - 69,Otros fuera de CABA
+2016,m,2908,70 - 79,Otros fuera de CABA
+2016,m,707,80 - 89,Otros fuera de CABA
+2016,m,48,90 y más,Otros fuera de CABA
+2016,m,3,Ignorado,Otros fuera de CABA
+2016,m,17,0 - 9,Ignorado
+2016,m,232,10 - 19,Ignorado
+2016,m,597,20 - 29,Ignorado
+2016,m,600,30 - 39,Ignorado
+2016,m,803,40 - 49,Ignorado
+2016,m,896,50 - 59,Ignorado
+2016,m,895,60 - 69,Ignorado
+2016,m,710,70 - 79,Ignorado
+2016,m,344,80 - 89,Ignorado
+2016,m,51,90 y más,Ignorado
+2016,m,5,Ignorado,Ignorado
+2016,v,891,0 - 9,Ciudad de Buenos Aires
+2016,v,2479,10 - 19,Ciudad de Buenos Aires
+2016,v,6560,20 - 29,Ciudad de Buenos Aires
+2016,v,7228,30 - 39,Ciudad de Buenos Aires
+2016,v,8292,40 - 49,Ciudad de Buenos Aires
+2016,v,9985,50 - 59,Ciudad de Buenos Aires
+2016,v,10253,60 - 69,Ciudad de Buenos Aires
+2016,v,7341,70 - 79,Ciudad de Buenos Aires
+2016,v,2913,80 - 89,Ciudad de Buenos Aires
+2016,v,299,90 y más,Ciudad de Buenos Aires
+2016,v,4,Ignorado,Ciudad de Buenos Aires
+2016,v,385,0 - 9,Otros fuera de CABA
+2016,v,1731,10 - 19,Otros fuera de CABA
+2016,v,5296,20 - 29,Otros fuera de CABA
+2016,v,5800,30 - 39,Otros fuera de CABA
+2016,v,6855,40 - 49,Otros fuera de CABA
+2016,v,7211,50 - 59,Otros fuera de CABA
+2016,v,6229,60 - 69,Otros fuera de CABA
+2016,v,2729,70 - 79,Otros fuera de CABA
+2016,v,622,80 - 89,Otros fuera de CABA
+2016,v,38,90 y más,Otros fuera de CABA
+2016,v,0,Ignorado,Otros fuera de CABA
+2016,v,12,0 - 9,Ignorado
+2016,v,185,10 - 19,Ignorado
+2016,v,375,20 - 29,Ignorado
+2016,v,487,30 - 39,Ignorado
+2016,v,749,40 - 49,Ignorado
+2016,v,732,50 - 59,Ignorado
+2016,v,846,60 - 69,Ignorado
+2016,v,624,70 - 79,Ignorado
+2016,v,274,80 - 89,Ignorado
+2016,v,29,90 y más,Ignorado
+2016,v,0,Ignorado,Ignorado
