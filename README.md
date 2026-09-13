@@ -16,7 +16,7 @@ Actividad Individual 2: análisis exploratorio de datos (EDA) básico sobre el d
 
 ## Cómo correrlo
 
-1. Cloná o descargá este repositorio.
-2. Instalá las dependencias: `pip install pandas numpy matplotlib seaborn scipy`
-3. Abrí `EDA_visitas_estaciones_saludables_TP2_Final.ipynb` con Jupyter Notebook / JupyterLab
-   y ejecutá las celdas en orden (`Kernel > Restart & Run All`).
+1. Clone o descarge este repositorio.
+2. Instale las dependencias: `pip install pandas numpy matplotlib seaborn scipy`
+3. Abra `EDA_visitas_estaciones_saludables_TP2_Final.ipynb` con Jupyter Notebook / JupyterLab
+   y ejecute las celdas en orden (`Kernel > Restart & Run All`).
